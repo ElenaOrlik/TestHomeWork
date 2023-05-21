@@ -13,3 +13,4 @@ C:\Users\131\Desktop\Test_Git\TestHomeWork\Task2\obj\Debug\net8.0\refint\Task2.d
 C:\Users\131\Desktop\Test_Git\TestHomeWork\Task2\obj\Debug\net8.0\Task2.pdb
 C:\Users\131\Desktop\Test_Git\TestHomeWork\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
 C:\Users\131\Desktop\Test_Git\TestHomeWork\Task2\obj\Debug\net8.0\ref\Task2.dll
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task2\obj\Debug\net8.0\Task2.sourcelink.json
