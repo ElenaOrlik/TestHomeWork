@@ -1,0 +1,15 @@
+﻿Console.Clear();
+Console.Write("Координату точки А X(1): ");
+double x1 = double.Parse(Console.ReadLine()!);
+Console.Write("Координату точки А Y(1): ");
+double y1 = double.Parse(Console.ReadLine()!);
+Console.Write("Координату точки А Z(1): ");
+double z1 = double.Parse(Console.ReadLine()!);
+Console.Write("Координату точки В X(2): ");
+double x2 = double.Parse(Console.ReadLine()!);
+Console.Write("Координату точки В Y(2): ");
+double y2 = double.Parse(Console.ReadLine()!);
+Console.Write("Координату точки В Z(2): ");
+double z2 = double.Parse(Console.ReadLine()!); 
+double S = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2)); 
+      Console.WriteLine($"Расстояние между точками А и В равно {Math.Round(S, 2)}");
