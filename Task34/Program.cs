@@ -19,4 +19,4 @@ foreach (int element in array)
   int[] array = new int[n];
   InputArray(array);
 Console.WriteLine($"Начальный массив: [{string.Join(", ", array)}]");
-Console.WriteLine(CountNumbers(array));
+Console.WriteLine($"Четных чисел в массиве: [{CountNumbers(array)}]");
