@@ -16,5 +16,5 @@ int SumArray (int[] array)
   int[] array = new int[n];
   InputArray(array);
   Console.WriteLine($"Начальный массив: [{string.Join(", ", array)}]");
-  Console.WriteLine($"Сумма чисел, стоящих на нечётных позициях равна: [{SumArray(array)}]");
+  Console.WriteLine($"Сумма чисел, стоящих на нечётных позициях равна: [ {SumArray(array)} ]");
   
