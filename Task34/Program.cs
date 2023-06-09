@@ -13,6 +13,7 @@ foreach (int element in array)
     }
     return count;
   }
+  
   Console.Clear();
   Console.Write("Введите кол-во элементов массива: ");
   int n = int.Parse(Console.ReadLine()!);
