@@ -38,4 +38,4 @@ Console.Clear();
   Console.WriteLine($"Начальный массив: [{string.Join(", ", array)}]");
   Console.WriteLine($"Минимальное число равно: [ {MinArray(array)} ]");
   Console.WriteLine($"Максимальное число равно: [ {MaxArray(array)} ]");
-  //Console.WriteLine($"Разница межву макс и мин равно: [ {DiffArray(min, max)} ]");
+  Console.WriteLine($"Разница межву макс и мин равно: [{DiffArray(MinArray(array), MaxArray(array))} ]");
