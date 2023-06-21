@@ -1,0 +1,16 @@
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\bin\Debug\net8.0\Task64.exe
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\bin\Debug\net8.0\Task64.deps.json
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\bin\Debug\net8.0\Task64.runtimeconfig.json
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\bin\Debug\net8.0\Task64.dll
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\bin\Debug\net8.0\Task64.pdb
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\Task64.csproj.AssemblyReference.cache
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\Task64.AssemblyInfoInputs.cache
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\Task64.AssemblyInfo.cs
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\Task64.csproj.CoreCompileInputs.cache
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\Task64.sourcelink.json
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\Task64.dll
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\refint\Task64.dll
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\Task64.pdb
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\Task64.genruntimeconfig.cache
+C:\Users\131\Desktop\Test_Git\TestHomeWork\Task64\obj\Debug\net8.0\ref\Task64.dll
